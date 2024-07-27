@@ -12,7 +12,7 @@
 
 # Preview
 <h2>Home Page</h2><br>
-![download](https://github.com/user-attachments/assets/2b0f1448-03b0-42d2-a350-51c8852b5266)
+![download](https://github.com/user-attachments/assets/f5c4cb7f-4ba6-49b5-a513-ac010287427e)
 
 
 
