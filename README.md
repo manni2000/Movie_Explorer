@@ -1,6 +1,6 @@
 # StarStream
 
-    Fullstack Responsive Movie Website
+    Fullstack Responsive Movie Explorer Application
 
 # Technologies used:
 
