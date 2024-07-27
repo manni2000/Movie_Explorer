@@ -6,7 +6,7 @@
 
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
-[NodeJS](https://nodejs.org/).<br>
+[NodeJS](https://nodejs.org/)<br>
 [Mongoose](https://mongoosejs.com/)<br>
 [ExpressJS](https://expressjs.com/)<br>
 [Express Validator](https://express-validator.github.io/docs/)<br>
@@ -17,7 +17,7 @@
 [ThemovieDB](https://www.themoviedb.org/)<br>
 [Swiper](https://swiperjs.com/)<br>
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
-[Movie API](https://developer.themoviedb.org/reference/intro/getting-started).<br>
+[Movie API](https://developer.themoviedb.org/reference/intro/getting-started)<br>
 
 
 # Preview
