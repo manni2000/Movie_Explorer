@@ -12,7 +12,7 @@
 # Steps to Run the Project
 <b>1. Clone the Repository:</b><br>
 <pre>
-git clone https://github.com/manni2000/Movie_Explore.git
+git clone https://github.com/manni2000/Movie_Explorer.git
 cd Movie_Explore
 </pre>
 
