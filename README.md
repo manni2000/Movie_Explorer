@@ -11,15 +11,8 @@
 
 
 # Preview
+<h2>Home Page</h2><br>
+![download](https://github.com/user-attachments/assets/2b0f1448-03b0-42d2-a350-51c8852b5266)
 
-!["Home Page"]()
 
-!["Fullstack Responsive Movie Website"]()
 
-!["Fullstack Responsive Movie Website"]()
-
-!["Fullstack Responsive Movie Website"]()
-
-!["Fullstack Responsive Movie Website"]()
-
-!["Fullstack Responsive Movie Website"]()
