@@ -62,13 +62,7 @@ npm start
 
 
 # Preview
-<<<<<<< HEAD
-<h2>Home Page</h2><br>
-=======
  !["Home Page"](https://github.com/user-attachments/assets/43aa38a9-31b2-430d-b7d4-354a347bb686)
-
-
->>>>>>> dcef4f7d898287397bf15f5367d36ba0bdeaf3ed
 
 
 
