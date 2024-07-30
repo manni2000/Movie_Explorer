@@ -35,7 +35,7 @@ npm install
 <b>3. Set Up Environment Variables:</b><br>
 Create a <code>.env</code> file in the <code>backend</code> directory and add the following:
 <pre>
-MONGODB_URL = mongodb+srv://manish:&lt;password&gt;@cluster0.p6x7dxw.mongodb.net/mydb
+MONGODB_URL = mongodb+srv://<username>:&lt;<password>&gt;@cluster0.p6x7dxw.mongodb.net/mydb
 PORT = 5000
 TOKEN_SECRET = ABC
 TMDB_BASE_URL = https://api.themoviedb.org/3/
